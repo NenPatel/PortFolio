@@ -1,0 +1,54 @@
+#black{
+    background-color: rgb(21, 233, 215);
+    background-image: url("https://www.transparenttextures.com/patterns/always-grey.png");
+    height: 100vh;
+}
+#red{
+    height: 100vh;
+    background-color: rgb(21, 233, 215);
+    background-image: url("https://www.transparenttextures.com/patterns/always-grey.png");
+}
+#link{
+    height: 55vh;
+    background-color: rgb(39, 241, 49);
+}
+#contact{
+    background-color: rgb(21, 233, 215);
+    background-image: url("https://www.transparenttextures.com/patterns/always-grey.png");
+    height: 50vh;
+}
+#pink{
+    background-color: rgb(21, 233, 215);
+    background-image: url("https://www.transparenttextures.com/patterns/always-grey.png");
+    height: 100vh;
+}
+#image{
+    border-radius: 20px;
+    border: 3px solid rgb(135, 33, 218);
+}
+.name{
+    color: blue;
+} 
+.center,#aboutme,#project{
+    text-align:center;
+}
+#img1,#img2{
+    border: 5px solid black;
+    border-radius: 15px;
+}
+#git:hover{
+background-color: white;
+border-radius: 8px;
+}
+#inst:hover{
+    background-color: rgb(255, 13, 162);
+    border-radius: 13px;
+}
+#linked:hover{
+    background-color: rgb(35, 185, 255);
+    border-radius: 8px;
+}
+#face:hover{
+    background-color: rgb(116, 196, 250);
+    border-radius: 8px;
+}
